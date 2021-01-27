@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Preliminary assignment for Wolt summer internship 2021
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installing the dependencies
 
 In the project directory, you can run:
 
