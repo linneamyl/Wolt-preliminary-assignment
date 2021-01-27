@@ -3,26 +3,40 @@
 This project was made with React.js for Wolt summer intenship preliminary assignment in spring 2021.
 It has been bootstrapped with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
-## Installing
+The assignment you can find from https://github.com/woltapp/summer2021-internship
 
-Clone the repository
+## Getting Started
 
-`$ git clone https://github.com/linneamyl/Wolt-preliminary-assignment.git`
+### Prerequisites
 
-Move to the project directory
+To use the application you need to have installed the following:
 
-#### Installing the dependencies
+- yarn
 
-In the project directory, run:
+```bash
+npm install -g yarn
+```
 
-`yarn add`
+### Step 1
 
-Now you have installed the dependencies which are important for the project to proceed working.
+Clone or download this project
 
-#### Running the app
+```bash
+$ git clone https://github.com/linneamyl/Wolt-preliminary-assignment.git
+```
 
-Run command on the below in the project root directory.
-`yarn start`
+navigate to app's directory:
+
+```bash
+cd /path_to/Wolt-preliminary-assignment
+```
+
+run
+
+```bash
+yarn install
+yarn start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -30,9 +44,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### List of dependecies
+## Built With
+
+- [React](https://reactjs.org)
+
+## List of dependecies
 - [Material-ui/core](https://material-ui.com)
-- [React Blurhash](https://github.com/woltapp/react-blurhash)
 - [Material-ui/Icons](https://material-ui.com/components/material-icons/)
+- [React Blurhash](https://github.com/woltapp/react-blurhash)
+
 
 
